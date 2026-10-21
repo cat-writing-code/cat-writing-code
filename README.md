@@ -8,12 +8,12 @@ Favorite Movies:
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%"> <img width="250" height="382" alt="Alien_movie_poster" src="https://github.com/user-attachments/assets/a0908795-a597-428f-9ef1-a0944aba1e4d" alt="Alien (1979)"/> </td>
-      <td align="center" width="33%"> <img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f" alt="Sinners (2025)"/> </td>
-      <td align="center" width="33%"> <img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025" alt="Jennifer's Body (2009)"/> </td>
+      <td align="center" width="33%"> <img width="250" height="382" alt="Alien_movie_poster" src="https://github.com/user-attachments/assets/a0908795-a597-428f-9ef1-a0944aba1e4d"/> </td>
+      <td align="center" width="33%"> <img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f"/> </td>
+      <td align="center" width="33%"> <img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025"/> </td>
     </tr>
     <tr>
-      <td align="center">Alien (1979)</td>
+      <td align="center"><strong>Alien</strong> (1979)</td>
       <td align="center">Sinners (2025)</td>
       <td align="center">Jennifer's Body (2009)</td>
     </tr>
