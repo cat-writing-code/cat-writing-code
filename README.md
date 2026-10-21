@@ -1,8 +1,10 @@
-<div align="center"> <img width="800" height="337" alt="af2bc2562b620cd327ae39478d924723" src="https://github.com/user-attachments/assets/d244b174-9030-460b-8817-4f4e19769cb7"/> </div>
+<div align="center"> <img width="800" height="337" alt="af2bc2562b620cd327ae39478d924723" src="https://github.com/user-attachments/assets/d244b174-9030-460b-8817-4f4e19769cb7"/> <br / > [Found on Pintres](https://pin.it/2xmKq3qJt) </div>
 
 ## About Me: <br />
-Hi! I'm a undergraduate student at the University of Maryland majoring in Computer Science.
+Hi! I'm a undergraduate student at the University of Maryland majoring in Computer Science. In my free time I like writing, and learning about history.
+<br />
 Favorite Movies:
+<br />
 <br />
 No CS class projects will be posted, in respects to [UMD CS Department's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
 <br />
@@ -20,6 +22,5 @@ No CS class projects will be posted, in respects to [UMD CS Department's Academi
 <br />
 <br />
 <br />
-Banner: https://pin.it/2xmKq3qJt
 
 Last Updated: October 22nd 2026
