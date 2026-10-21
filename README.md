@@ -20,8 +20,6 @@ Favorite Movies:
   </table>
 </div>
 
-
-<br />
 <br />
 Something else:
 <br />
