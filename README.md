@@ -5,18 +5,22 @@ Hi! I'm a undergraduate student at the University of Maryland majoring in Comput
 <br />
 <br />
 Favorite Movies:
-
+<table>
+  <tr>
+    <td align="center" width="33%"> <img width="250" height="382" alt="Alien_movie_poster" src="https://github.com/user-attachments/assets/a0908795-a597-428f-9ef1-a0944aba1e4d" alt="Alien (1979)"/> </td>
+    <td align="center" width="33%"> <img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f" alt="Sinners (2025)"/> </td>
+    <td align="center" width="33%"> <img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025" alt="Jennifer's Body (2009)"/> </td>
+  </tr>
+</table>
 <div>
-<img width="250" height="382" alt="Alien_movie_poster" src="https://github.com/user-attachments/assets/a0908795-a597-428f-9ef1-a0944aba1e4d" /> <br />
-<p align="center">Alien (1979)</p>
+ <br />
+Alien (1979)
 </div>
 <div>
-<img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f" /> <br />
-Sinners (2025)
+ <br />
 </div>
 <div>
-<img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025" /> <br />
-Jennifer's Body (2009)
+ <br />
 </div>
 
 <br />
