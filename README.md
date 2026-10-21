@@ -3,7 +3,19 @@
 ## About Me: <br />
 Hi! I'm a undergraduate student at the University of Maryland majoring in Computer Science. In my free time I like writing, and learning about history.
 <br />
+<br />
 Favorite Movies:
+
+<img width="250" height="382" alt="Alien_movie_poster" src="https://github.com/user-attachments/assets/a0908795-a597-428f-9ef1-a0944aba1e4d" />
+Alien (1979)
+<img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f" />
+Sinners (2025)
+<img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025" />
+Jennifer's Body (2009)
+
+<br />
+<br />
+Something else:
 <br />
 <br />
 No CS class projects will be posted, in respects to [UMD CS Department's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
@@ -20,6 +32,8 @@ No CS class projects will be posted, in respects to [UMD CS Department's Academi
 ## Up and Coming Projects: <br />
   Fall 2026: CMSC498A (Independent Study) with Stevens Millers <br />
   Creating a game based off of a short story I have written
+  <br />
+  Fall 2026: CMSC434 (Introduction to Human-Computer Interaction) with Evan Golub <br />
 <br />
 <br />
 <br />
