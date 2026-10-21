@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 About:<br />
 
-No in-class projects will be posted here, in respects to [UMD's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
-
+No CS class projects will be posted, in respects to [UMD CS Department's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
+<br />
+<br />
 Projects: <br />
+[Snake](https://github.com/cat-writing-code/snake) <br />
+[Period Product Sustainablity Website](https://cat-writing-code.github.io/period-product-sustainablity/), for FMSC265 (Summer I 2026) <br />
+[Hamster Clicker]()
 
 Up and Coming Projects: <br />
   CMSC498A (Independent Study) with Stevens Millers
