@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Current Projects:
 
-Up and Coming Projects:
+About:<br />
+
+No in-class projects will be posted here, in respects to [UMD's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
+
+Projects: <br />
+
+Up and Coming Projects: <br />
   CMSC498A (Independent Study) with Stevens Millers
