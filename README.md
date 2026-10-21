@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me: <br />
+# About Me: <br />
 Favorite Movies:
 
 No CS class projects will be posted, in respects to [UMD CS Department's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
