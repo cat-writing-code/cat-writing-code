@@ -44,4 +44,6 @@ No CS class projects will be posted, in respects to [UMD CS Department's Academi
 <br />
 <br />
 
-Last Updated: October 22nd 2026
+<div align="center">
+  Last Updated: October 22nd 2026
+</div>
