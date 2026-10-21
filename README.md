@@ -6,7 +6,7 @@ Hi! I'm a undergraduate student at the University of Maryland majoring in Comput
 <br />
 Favorite Movies:
 <div align="center">
-  <table>
+  <table style="border: none; boarder-collapse: collapse;" >
     <tr>
       <td style="border: none;" align="center" width="33%"> <img width="250" height="382" alt="Alien_movie_poster" src="https://github.com/user-attachments/assets/a0908795-a597-428f-9ef1-a0944aba1e4d"/> </td>
       <td style="border: none;" align="center" width="33%"> <img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f"/> </td>
