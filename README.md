@@ -12,6 +12,11 @@ Favorite Movies:
       <td align="center" width="33%"> <img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f" alt="Sinners (2025)"/> </td>
       <td align="center" width="33%"> <img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025" alt="Jennifer's Body (2009)"/> </td>
     </tr>
+    <tr>
+      <td align="center">Alien (1979)</td>
+      <td align="center">Sinners (2025)</td>
+      <td align="center">Jennifer's Body (2009)</td>
+    </tr>
   </table>
 </div>
 
