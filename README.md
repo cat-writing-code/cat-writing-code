@@ -23,7 +23,6 @@ No CS class projects will be posted, in respects to [UMD CS Department's Academi
 [Snake](https://github.com/cat-writing-code/snake) <br />
 [Period Product Sustainablity Website](https://cat-writing-code.github.io/period-product-sustainablity/), for FMSC265's final project (Summer I 2026)
 <br />
-<br />
 [Hamster Clicker]()
 <br />
 <br />
