@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Current Projects:
 
 Up and Coming Projects:
+  CMSC498A (Independent Study) with Stevens Millers
