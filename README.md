@@ -1,4 +1,4 @@
-<img width="800" height="337" alt="af2bc2562b620cd327ae39478d924723" src="https://github.com/user-attachments/assets/d244b174-9030-460b-8817-4f4e19769cb7"/>
+<div align="center"> <img width="800" height="337" alt="af2bc2562b620cd327ae39478d924723" src="https://github.com/user-attachments/assets/d244b174-9030-460b-8817-4f4e19769cb7"/> </div>
 <!--
 **cat-writing-code/cat-writing-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me: <br />
+## About Me: <br />
+Hi! I'm a undergraduate student at the University of Maryland majoring in Computer Science.
 Favorite Movies:
-
+<br />
 No CS class projects will be posted, in respects to [UMD CS Department's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
 <br />
 <br />
