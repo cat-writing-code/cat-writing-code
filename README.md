@@ -1,3 +1,4 @@
+<img width="800" height="337" alt="af2bc2562b620cd327ae39478d924723" src="https://github.com/user-attachments/assets/d244b174-9030-460b-8817-4f4e19769cb7" />
 <!--
 **cat-writing-code/cat-writing-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
