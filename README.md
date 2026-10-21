@@ -18,7 +18,8 @@ No CS class projects will be posted, in respects to [UMD CS Department's Academi
 <br />
 <br />
 ## Up and Coming Projects: <br />
-  CMSC498A (Independent Study) with Stevens Millers
+  Fall 2026: CMSC498A (Independent Study) with Stevens Millers <br />
+  Creating a game based off of a short story I have written
 <br />
 <br />
 <br />
