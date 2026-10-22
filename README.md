@@ -19,9 +19,12 @@ Favorite Movies:
     </tr>
   </table>
 </div>
+
 <br />
 <br />
-Please note: no CS class projects will be posted, in respects to [UMD CS Department's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
+
+Please note: no CS class projects will be posted, in respects to [link](https://www.youtube.com/)
+
 <br />
 <br />
 
