@@ -34,9 +34,10 @@ Please note: no CS class projects will be posted, in respects to [UMD CS Departm
 <br />
 ## Up and Coming Projects: <br />
   Fall 2026: CMSC498A (Independent Study) with Stevens Millers <br />
-  Creating a game based off of a short story I have written
+  "\t"Creating a game based off of a short story I have written.
   <br />
   Fall 2026: CMSC434 (Introduction to Human-Computer Interaction) with Evan Golub <br />
+  "\t"Group project making a kitchen resource management app.
 <br />
 <br />
 <br />
