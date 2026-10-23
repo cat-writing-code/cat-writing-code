@@ -4,6 +4,22 @@
 Hi! I'm a undergraduate student at the University of Maryland majoring in Computer Science. In my free time I like writing, and learning about history. Come check out some of the projects I've been working on...
 <br />
 <br />
+Favorite Games:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"> <img width="250" height="375" alt="MV5BMjM4MzE0MGItY2U4OS00MTU5LTgwNWUtYzMxZjMzMTQ5Yjg1XkEyXkFqcGc" src="https://github.com/user-attachments/assets/17db6641-ba46-4679-b925-3efa6c7c630a" /> </td>
+      <td align="center" width="33%"> <img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f"/> </td>
+      <td align="center" width="33%"> <img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025"/> </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Minecraft</strong>)</td>
+      <td align="center"><strong>Game 2</strong></td>
+      <td align="center"><strong>Game 3</strong></td>
+    </tr>
+  </table>
+</div>
+
 Favorite Movies:
 <div align="center">
   <table>
