@@ -9,13 +9,13 @@ Favorite Games:
   <table>
     <tr>
       <td align="center" width="33%"> <img width="250" height="375" alt="MV5BMjM4MzE0MGItY2U4OS00MTU5LTgwNWUtYzMxZjMzMTQ5Yjg1XkEyXkFqcGc" src="https://github.com/user-attachments/assets/17db6641-ba46-4679-b925-3efa6c7c630a" /> </td>
-      <td align="center" width="33%"> <img width="250" height="371" alt="Sinners_(2025_film)_poster" src="https://github.com/user-attachments/assets/8ac31c43-fd97-4e70-81da-42383078850f"/> </td>
-      <td align="center" width="33%"> <img width="250" height="368" alt="Jennifers_body_ver2" src="https://github.com/user-attachments/assets/ccbe4dbe-df70-4f57-abca-e52275ad7025"/> </td>
+      <td align="center" width="33%"> <img width="250" height="117" alt="FNAF1logo" src="https://github.com/user-attachments/assets/df03f339-adfb-4722-9462-8f29670b02b3" /></td>
+      <td align="center" width="33%"> <img width="250" height="375" alt="a72016a9d2175b11212ce4f5fdc547f2" src="https://github.com/user-attachments/assets/22e5f5a3-7752-434b-a38c-942db3ce46fc" /></td>
     </tr>
     <tr>
-      <td align="center"><strong>Minecraft</strong>)</td>
-      <td align="center"><strong>Game 2</strong></td>
-      <td align="center"><strong>Game 3</strong></td>
+      <td align="center"><strong>Minecraft</strong></td>
+      <td align="center"><strong>Five Nights at Freddy's</strong></td>
+      <td align="center"><strong>Baldur's Gate 3</strong></td>
     </tr>
   </table>
 </div>
