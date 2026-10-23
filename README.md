@@ -46,7 +46,7 @@ Please note: no CS class projects will be posted, in respects to [UMD CS Departm
 ## Projects: <br />
 [Snake](https://github.com/cat-writing-code/snake) <br />
 [Period Product Sustainablity Website](https://cat-writing-code.github.io/period-product-sustainablity/), for FMSC265's final project (Summer I 2026) <br />
-[Pomodoro Timer]() <br />
+[Pomodoro Timer](https://cat-writing-code.github.io/pomodoro-timer/) <br />
 <br />
 <br />
 ## Up and Coming Projects: <br />
