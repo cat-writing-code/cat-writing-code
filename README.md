@@ -65,11 +65,16 @@ CMSC425 (Intro to Game Programming) Group Project (Spring 2026)<br />
 &ensp;A 3d game of our own design. Implemented with Unity. Grading was largely based on a number of factors reflecting the effort and creativity that the various team members bring to the work. Some of these elements include novelty of the concept, quality of the game-play, sophistication of design, algorithmic innovations, and artistic quality.<br />
 &ensp;Grade: 97/100<br />
 
-[Snake](https://github.com/cat-writing-code/snake) <br />
 FMSC265 (Teaching Menstrual Health: Dispelling Myths and Misconceptions) Final Project [Period Product Sustainablity Website](https://cat-writing-code.github.io/period-product-sustainablity/) (Summer I 2026) <br />
 &ensp;A project in which we must create a distributable resource about menstrual health.<br />
 &ensp;Grade: 95/100 <br />
+
+[Snake](https://github.com/cat-writing-code/snake) <br />
+&ensp;Recreation of Snake.<br />
+
 [Pomodoro Timer](https://cat-writing-code.github.io/pomodoro-timer/) <br />
+&ensp;Functional study tool.<br />
+
 <br />
 <br />
 ## Up and Coming Projects: <br />
