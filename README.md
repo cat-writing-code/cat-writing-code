@@ -74,7 +74,6 @@ FMSC265 (Teaching Menstrual Health: Dispelling Myths and Misconceptions) Final P
 
 [Pomodoro Timer](https://cat-writing-code.github.io/pomodoro-timer/) <br />
 &ensp;Functional study tool.<br />
-
 <br />
 <br />
 ## Up and Coming Projects: <br />
