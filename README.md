@@ -42,7 +42,6 @@ Favorite Movies:
 Please note: no CS class projects will be posted, in respects to [UMD CS Department's Academic Integrity Policy](https://www.cs.umd.edu/class/resources/academicIntegrity.html)
 
 <br />
-<br />
 
 ## Projects: <br />
 CMSC132 (Object-Oriented Programming II) Tetris Group Project (Spring 2024)<br />
