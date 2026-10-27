@@ -61,7 +61,7 @@ CMSC216 (Introduction to Computer Systems) Threading Group Project (Fall 2024)<b
 present in an array.<br />
 &ensp;Grade: 100/100 <br />
 
-CMSC425 (Intro to Game Programming) Group Project (Spring 2026)<br />
+CMSC425 (Game Programming) Group Project (Spring 2026)<br />
 &ensp;A 3d game of our own design. Implemented with Unity. Grading was largely based on a number of factors reflecting the effort and creativity that the various team members bring to the work. Some of these elements include novelty of the concept, quality of the game-play, sophistication of design, algorithmic innovations, and artistic quality.<br />
 &ensp;Grade: 97/100<br />
 
