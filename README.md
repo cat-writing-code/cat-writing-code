@@ -44,35 +44,35 @@ Please note: no CS class projects will be posted, in respects to [UMD CS Departm
 <br />
 
 ## Projects: <br />
-CMSC132 (Object-Oriented Programming II) Tetris Group Project (Spring 2024)<br />
+**CMSC132 (Object-Oriented Programming II) Tetris Group Project (Spring 2024)**<br />
 &ensp;Implementation of inheritance and inner classes to implement a game of our choosing.<br />
 &ensp;Grade: 100/100 <br />
 
-CMSC132 (Object-Oriented Programming II) Graphs Project (Spring 2024)<br />
+**CMSC132 (Object-Oriented Programming II) Graphs Project (Spring 2024)**<br />
 &ensp;Implementation of graphs, BFS traversal, DFS traversal, and Dijkstra's Algorithm.<br />
 &ensp;Grade: 100/100 <br />
 
-CMSC216 (Introduction to Computer Systems) Shell-Jr (Fall 2024)<br />
+**CMSC216 (Introduction to Computer Systems) Shell-Jr (Fall 2024)**<br />
 &ensp;Task was to write the guts of a shell that will support boolean operations, pipes, and file redirection.<br />
 &ensp;Grade: 100/100 <br />
 
-CMSC216 (Introduction to Computer Systems) Threading Group Project (Fall 2024)<br />
+**CMSC216 (Introduction to Computer Systems) Threading Group Project (Fall 2024)**<br />
 &ensp;An exercise in will using threads to write a program that computes the maximum and the sum of data
 present in an array.<br />
 &ensp;Grade: 100/100 <br />
 
-CMSC425 (Game Programming) Group Project (Spring 2026)<br />
+**CMSC425 (Game Programming) Group Project (Spring 2026)**<br />
 &ensp;A 3d game of our own design. Implemented with Unity. Grading was largely based on a number of factors reflecting the effort and creativity that the various team members bring to the work. Some of these elements include novelty of the concept, quality of the game-play, sophistication of design, algorithmic innovations, and artistic quality.<br />
 &ensp;Grade: 97/100<br />
 
-FMSC265 (Teaching Menstrual Health: Dispelling Myths and Misconceptions) Final Project [Period Product Sustainablity Website](https://cat-writing-code.github.io/period-product-sustainablity/) (Summer I 2026) <br />
+**FMSC265 (Teaching Menstrual Health: Dispelling Myths and Misconceptions) Final Project [Period Product Sustainablity Website](https://cat-writing-code.github.io/period-product-sustainablity/) (Summer I 2026)** <br />
 &ensp;A project in which we must create a distributable resource about menstrual health.<br />
 &ensp;Grade: 95/100 <br />
 
-[Snake](https://github.com/cat-writing-code/snake) <br />
+**[Snake](https://github.com/cat-writing-code/snake)** <br />
 &ensp;Recreation of Snake.<br />
 
-[Pomodoro Timer](https://cat-writing-code.github.io/pomodoro-timer/) <br />
+**[Pomodoro Timer](https://cat-writing-code.github.io/pomodoro-timer/)** <br />
 &ensp;Functional study tool.<br />
 <br />
 <br />
